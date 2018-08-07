@@ -12,6 +12,7 @@ How are you ?
 ++++
 Followed these steps
 ++++
+
 root@sachinvlk-VirtualBox:/home/sachinvlk/my-website/content# cd ..
 root@sachinvlk-VirtualBox:/home/sachinvlk/my-website# hugo new posts/first-post.md
 /home/sachinvlk/my-website/content/posts/first-post.md created
