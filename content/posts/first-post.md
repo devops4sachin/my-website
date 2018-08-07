@@ -13,10 +13,10 @@ How are you ?
 Followed these steps
 ++++
 
- 1483  wget https://github.com/gohugoio/hugo/releases/download/v0.36.1/hugo_0.36.1_Linux-64bit.deb
- 1484  ls
- 1485  dpkg -i hugo_0.36.1_Linux-64bit.deb 
- 1486  hugo version
+1483  wget https://github.com/gohugoio/hugo/releases/download/v0.36.1/hugo_0.36.1_Linux-64bit.deb
+1484  ls
+1485  dpkg -i hugo_0.36.1_Linux-64bit.deb 
+1486  hugo version
 https://github.com/gohugoio/hugo/releases/download/v0.36.1/hugo_0.36.1_Linux-64bit.deb
 
 
