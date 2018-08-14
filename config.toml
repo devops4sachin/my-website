@@ -1,4 +1,20 @@
 baseurl = "https://happy-wozniak-faaa55.netlify.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sachin Kesarkar - Devops Posts"
 theme = "ananke"
+
+[author]
+  name = "Sachin Kesarkar"
+  bio = "Hungry to Learn"
+  job = "Devops & Cloud Solutions Architect"
+  location = "India, Pune"
+  gravatarEmail = "devops.sachin@gmail.com"
+
+[[menu.main]]
+    name = "Home" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/" #URL address
+[[menu.main]]
+    name = "Posts"
+    weight = 20
+    url = "/posts/"
